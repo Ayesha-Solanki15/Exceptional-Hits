@@ -1,0 +1,30 @@
+#showcase .showcase-content{
+  top: 64px;
+}
+/* #showcase .showcase-content .para{
+  color: rgb(234, 170, 87);
+} */
+/* Aligning icons to left */
+.item{
+  display: flex;
+ }
+ .item div{
+   text-align: left;
+ }
+.item i{
+  align-self: center;
+  padding: 1.5rem;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+.item h3{
+  color:rgb(46, 1, 245) ;
+  font-size: 1.5rem;
+}
+.item p{
+  line-height: 1.5rem;
+}
+
+#contact .map{
+  flex: 2;
+}
